@@ -1,4 +1,4 @@
-# LH_SVHealthAlert
+# Description
 
 Very simple little mod that will alert you if your shield or hull drops below 50%.
 If you're like me and often get into big fights and having to carefully stare at your health bar, you'll like this one.
